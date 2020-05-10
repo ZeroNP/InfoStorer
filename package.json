@@ -1,0 +1,19 @@
+{
+  "name": "infostorer",
+  "version": "1.0.0",
+  "description": "Basic app to store name and age using blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ethereum",
+    "Solidity",
+    "Testrpc",
+    "web3",
+    "Blockchain",
+    "Truffle"
+  ],
+  "author": "ZeronP",
+  "license": "ISC"
+}
